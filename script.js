@@ -28,7 +28,7 @@
 // })
 
 document.addEventListener("DOMContentLoaded", function() {
-  var initialItemCount = 6;
+  var initialItemCount = 5;
   var itemsToAdd = 6;
   var productList = document.getElementById("list-products");
   var viewMoreLink = document.getElementById("view-more-link");

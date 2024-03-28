@@ -8,8 +8,8 @@
 }
 
 #wrapper {
-    /* Kích thước màn hình là 1280 x 720 */
-    width: 100%;
+    /* Kích thước màn hình là 1920x1080 */
+    width: 100%%;
     height: 100vh;
     cursor: default;
 }
